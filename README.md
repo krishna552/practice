@@ -1,4 +1,4 @@
 # practice
 
 
-Just calcualting simple interest
+Just calculting simple interest
